@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Onik</string>
+    <string name="url_email">https://gmail.com</string>
+    <string name="url_github">https://github.com/tdeugdoer</string>
+    <string name="url_creator">https://vk.com/tegor132003</string>
+    <string name="url_playmarket">https://play.google.com/store/games</string>
+    <string name="about_app">О приложении</string>
+    <string name="back">Назад</string>
+    <string name="version">Версия</string>
+    <string name="numer_version">1.0</string>
+    <string name="email">Почта</string>
+    <string name="emal_adress">tegor2003@gmail.com</string>
+    <string name="github">GitHub</string>
+    <string name="git_name">tdeugdoer</string>
+    <string name="creator_info">Информация о создателе</string>
+    <string name="creator_name">Терешкевич Егор Сергеевич</string>
+    <string name="rating">Оценка</string>
+    <string name="rate_us">Оцените нас!</string>
+    <string name="very_impotant_string">Нам очень важно ваше мнение</string>
+    <string name="add_film">Add film</string>
+    <string name="edit">Edit</string>
+    <string name="edit_film">Edit film</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="director">Director</string>
+    <string name="year">Year</string>
+    <string name="rating_en">Rating</string>
+
+</resources>
